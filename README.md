@@ -1,6 +1,6 @@
 # DSP_method
 
-The library consists of threee module:
+The library consists of three module:
 * fir_filter(optional):  
 provide implementation of fft, FIR filter, windows and visualzation of frequency spectrum
 * iir_filter:  
